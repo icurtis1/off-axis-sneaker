@@ -2,7 +2,7 @@
 
 A real-time 3D perspective effect that responds to your head movements, built with React, Three.js, and MediaPipe. Inspired by Johnny Chung Lee's Wii Remote head tracking demo, this application creates the illusion of looking through a window into a 3D scene by tracking your face position and adjusting the camera perspective accordingly.
 
-<img src="./public/media/example.gif" alt="Demo" width="800" />
+<img src="/public/media/example.gif" alt="Demo" width="800" />
 
 [Live Link](https://off-axis-sneaker.bolt.host)
 
