@@ -2,7 +2,7 @@
 
 A real-time head-tracking 3D viewer that creates an immersive "Johnny Chung Lee" style head-coupled perspective effect. The application uses MediaPipe face tracking to adjust the Three.js camera perspective based on your head position, making 3D objects appear to exist in physical space behind your screen.
 
-<img src="public/media/demo-shot.png" alt="Demo" width="800" />
+<img src="public/media/demo2.gif" alt="Demo" width="800" />
 
 [Live Link](https://off-axis-sneaker.bolt.host)
 
